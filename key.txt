@@ -1,0 +1,21 @@
+[root@localhost test.git]# ssh-keygen -t rsa -C "andygray0"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/root/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /root/.ssh/id_rsa.
+Your public key has been saved in /root/.ssh/id_rsa.pub.
+The key fingerprint is:
+df:0c:9a:e9:a6:58:33:ba:77:bb:74:9f:eb:7e:36:9d andygray0
+The key's randomart image is:
++--[ RSA 2048]----+
+|                 |
+|                 |
+|                 |
+|                 |
+|        S .      |
+|         = +     |
+|      + = o o  ..|
+|     +.=o. . .+E.|
+|    +o.++o o*+ . |
+
