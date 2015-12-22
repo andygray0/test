@@ -1,0 +1,5 @@
+int j =  count.length();
+			NumberFormat nf = NumberFormat.getInstance();
+			nf.setGroupingUsed(false);
+			nf.setMaximumIntegerDigits(j);
+			nf.setMinimumIntegerDigits(j);
